@@ -1,8 +1,8 @@
 package com.plataforma.plataforma_educativa.model;
 
-import jakarta.annotation.Generated;
+import jakarta.annotation.*;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.*;;;
+import jakarta.validation.constraints.*;
 
 @Entity
 public class Usuario {
