@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PlataformaEducativaApplication<plataforma-educativa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.plataforma.plataforma_educativa.PlataformaEducativaApplication",
+            "projectName": "plataforma-educativa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
